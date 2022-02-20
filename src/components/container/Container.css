@@ -1,0 +1,1034 @@
+.banner {
+  background-color: #cfecfa;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  padding: 60px 0px;
+}
+.banner .platform {
+  width: 100%;
+  margin: 43px 0px;
+  padding: 25% 5px 0px;
+  text-align: center;
+}
+.banner .platform h1 {
+  font-family: "Montserr6at-Bold";
+  font-size: 25px;
+  padding: 0px 10px;
+  line-height: 1.4;
+  margin: 0px 0px 20px;
+}
+.banner .platform a {
+  background-color: white;
+  font-size: 16px;
+  padding: 0.6rem 0.9rem;
+  margin: 0px 15px 0px 0px;
+  text-decoration: none;
+  color: black;
+  font-family: "Montserr6at-Bold";
+  border-radius: 5px;
+  text-align: center;
+  box-shadow: 0px 0px 10px 6px #00000026;
+}
+.banner .platform a i {
+  margin: 15px 0px 0px;
+  font-size: 22px;
+}
+.banner .platform a:nth-child(3) {
+  padding: 0.6rem 1.6rem;
+  box-shadow: none;
+}
+.banner .James {
+  position: relative;
+  text-align: center;
+}
+.banner .James img {
+  width: 90%;
+  margin: 0px auto;
+}
+.banner .James .james-box {
+  transform: translate(22%, -76px);
+  text-align: center;
+  border-radius: 10px;
+  width: 70%;
+  background-color: white;
+  padding: 15px 10px;
+}
+.banner .James .james-box h2 {
+  font-family: "Montserr6at-Bold";
+  font-size: 17px;
+}
+.banner .James .james-box p {
+  font-family: "Montserrat-light";
+  font-size: 15px;
+  margin: 10px 0px;
+  line-height: 1.4;
+}
+.banner .James .james-box p span {
+  font-family: "Montserr6at-Bold";
+}
+
+.built {
+  background-color: #cfecfa;
+  padding: 80px 0px;
+}
+.built h2 {
+  text-align: center;
+  font-family: "Montserrat-regular";
+  font-size: 24px;
+  margin: 0px 0px 68px;
+}
+.built .built-con {
+  width: 90%;
+  margin: 0px auto;
+}
+.built .built-con .built-box {
+  text-align: center;
+  padding: 0px 0px 40px;
+  background-color: white;
+  border-radius: 20px;
+  transition: all 0.3s ease-in-out;
+}
+.built .built-con .built-box img {
+  top: -30px;
+  position: relative;
+  width: 96%;
+  height: 50%;
+}
+.built .built-con .built-box .girl {
+  width: 99%;
+  top: -35px;
+}
+.built .built-con .built-box h3 {
+  font-family: "Montserr6at-Bold";
+  font-size: 22px;
+}
+.built .built-con .built-box:nth-child(2) {
+  margin: 70px 0px 0px;
+  padding: 0px 0px 30px;
+}
+
+.Ourplatfroms {
+  margin: 20px 0px;
+  padding: 20px 0px;
+  overflow: hidden;
+}
+.Ourplatfroms h2 {
+  font-family: "Montserrat-regular";
+  font-size: 26px;
+  line-height: 1.2;
+  padding: 0px 10px;
+  text-align: center;
+  margin: 20px 0px 30px;
+}
+.Ourplatfroms .box {
+  margin: 10px 0px;
+  padding: 10px 0px;
+  position: relative;
+}
+.Ourplatfroms .box img {
+  width: 100%;
+}
+.Ourplatfroms .box p {
+  text-align: center;
+  font-family: "Montserrat-light";
+  font-size: 18px;
+  margin: 43px 0px 10px;
+  letter-spacing: 1px;
+}
+.Ourplatfroms .box p span {
+  font-family: "Montserr6at-Bold";
+}
+.Ourplatfroms .box a {
+  text-shadow: 0px 5px 5px #929292;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  transform: translate(80px, -25px);
+  width: 47%;
+  height: 45px;
+  background-color: white;
+  font-size: 18px;
+  padding: 0.5rem 1.3rem;
+  text-decoration: none;
+  color: black;
+  font-family: "Montserr6at-Bold";
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 6px #00000026;
+}
+.Ourplatfroms .box a i {
+  margin: 0px 10px;
+  font-size: 22px;
+}
+
+.founder {
+  background-color: #cfecfa;
+  margin: 20px 0px;
+  padding: 15px 0px 40px;
+  display: flex;
+  flex-direction: column-reverse;
+}
+.founder .group-lines {
+  display: none;
+}
+.founder .founder-text {
+  text-align: center;
+  margin: 30px 0px 40px;
+}
+.founder .founder-text h2 {
+  font-family: "Montserrat-semiBold";
+  text-transform: uppercase;
+  font-size: 26px;
+}
+.founder .founder-text p {
+  font-family: "Montserrat-light";
+  font-size: 18px;
+  margin: 20px 15px;
+  line-height: 1.4;
+}
+.founder .founder-text a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 42%;
+  height: 45px;
+  margin: 0px auto;
+  align-items: center;
+  background-color: white;
+  font-size: 18px;
+  padding: 0.5rem 0.8rem;
+  text-decoration: none;
+  color: black;
+  font-family: "Montserr6at-Bold";
+  border-radius: 5px;
+}
+.founder .founder-text a i {
+  font-size: 22px;
+}
+.founder img {
+  width: 93%;
+  margin: 0px auto;
+}
+
+.investor {
+  margin: 20px 0px;
+  padding: 15px 10px 50px;
+  display: flex;
+  flex-direction: column-reverse;
+}
+.investor .investor-text {
+  text-align: center;
+  margin: 42px 0px;
+}
+.investor .investor-text h2 {
+  font-family: "Montserrat-semiBold";
+  text-transform: uppercase;
+  font-size: 24px;
+}
+.investor .investor-text p {
+  font-family: "Montserrat-light";
+  font-size: 18px;
+  margin: 20px 0px;
+  line-height: 1.4;
+}
+.investor .investor-text a {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 45%;
+  height: 45px;
+  margin: 35px auto;
+  align-items: center;
+  background-color: black;
+  font-size: 18px;
+  padding: 0.5rem 0.8rem;
+  text-decoration: none;
+  color: white;
+  font-family: "Montserr6at-Bold";
+  border-radius: 5px;
+}
+.investor .investor-text a i {
+  font-size: 22px;
+}
+
+.Accordion {
+  background-color: #cfecfa;
+  padding: 53px 0px 40px;
+  overflow: hidden;
+}
+.Accordion h2 {
+  text-align: center;
+  font-family: "Montserrat-semiBold";
+  font-size: 24px;
+  line-height: 1.4;
+  margin: 0px 0px 12px;
+}
+.Accordion .acco {
+  margin: 10px 10px;
+}
+.Accordion .acco .acc h3 {
+  font-size: 14px;
+  line-height: 1.4;
+  padding: 15px 10px 8px 5px;
+  margin: 10px 0px;
+  font-family: "Montserrat-medium";
+  cursor: pointer;
+  position: relative;
+  border-bottom: 1px solid black;
+}
+.Accordion .acco .acc h3:after {
+  content: "+";
+  position: absolute;
+  right: 20px;
+  font-size: 30px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.Accordion .acco .acc.active h3:after {
+  content: "-";
+}
+.Accordion .acco .acc .content {
+  display: none;
+}
+.Accordion .acco .acc .content-inner {
+  padding: 15px;
+}
+.Accordion .acco .acc .content-inner p {
+  font-family: "Montserrat-light";
+  font-size: 16p/x;
+  line-height: 1.4;
+}
+.Accordion .acco .acc .content * {
+  margin-top: 0;
+  line-height: 1.5;
+}
+.Accordion .acco .acc .active h3:after {
+  content: "-";
+}
+.Accordion .acco .none {
+  display: none;
+}
+.Accordion .acco .acti {
+  display: block;
+}
+.Accordion .acco .more {
+  display: flex;
+  justify-content: center;
+  padding: 0.5rem;
+  font-family: "Montserr6at-Bold";
+  font-size: 18px;
+  outline: none;
+  border: none;
+  display: flex;
+  align-items: center;
+  width: 44%;
+  height: 45px;
+  border-radius: 8px;
+  background-color: black;
+  color: white;
+  margin: 38px auto 25px;
+}
+
+.Startups {
+  background-color: #cfecfa;
+  padding: 0px 10px 50px;
+  overflow: hidden;
+}
+.Startups .lock {
+  background-color: white;
+  padding: 17px 10px;
+  border-radius: 10px;
+}
+.Startups .lock h2 {
+  text-align: center;
+  font-family: "Montserrat-regular";
+  font-size: 18px;
+  margin: 20px 0px;
+}
+.Startups .lock hr {
+  opacity: 1;
+}
+.Startups .lock .box {
+  margin: 0px 0px;
+  height: 132px;
+  display: flex;
+  align-items: center;
+}
+.Startups .lock .box img {
+  width: 100%;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+.Startups .lock i {
+  position: absolute;
+  color: gainsboro;
+  font-size: 25px;
+  border: 2px solid #e2e2e2;
+  padding: 10px;
+  border-radius: 50%;
+  display: none;
+}
+.Startups .lunar {
+  display: none;
+}
+.Startups .lunar1 {
+  display: none;
+}
+
+footer {
+  background-color: black;
+  padding: 40px 0px 10px;
+  text-align: center;
+  overflow: hidden;
+}
+footer .footer-lines {
+  display: block;
+  position: absolute;
+  top: -53px;
+  width: 53%;
+  left: 23%;
+}
+footer .footer-box {
+  margin: 30px 0px;
+}
+footer .footer-box h2 {
+  font-family: "Montserrat-regular";
+  font-size: 22px;
+  color: white;
+  margin: 20px 0px;
+}
+footer .footer-box h4 {
+  font-family: "Montserrat-light";
+  color: white;
+  margin: 10px 0px;
+  font-size: 16px;
+}
+footer span {
+  width: 80%;
+  margin: 7px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+footer span img {
+  width: 30%;
+}
+footer span hr {
+  width: 2%;
+  height: 37px !important;
+  padding: 1px;
+  background-color: white;
+  margin: 0 10px;
+  opacity: 1;
+}
+footer span p {
+  font-family: "Montserrat-light";
+  color: white;
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  .banner {
+    box-sizing: border-box;
+    padding: 40px 0px 0px;
+    height: inherit;
+  }
+  .banner .platform {
+    width: 70%;
+    margin: 20px 0px 57px;
+    padding: 0px 0px 0px;
+  }
+  .banner .platform h1 {
+    font-size: 35px;
+  }
+  .banner .platform h1:nth-child(2) {
+    margin: 0px 0px 35px 0px;
+  }
+  .banner .platform a {
+    font-size: 26px;
+    padding: 0.6rem 1rem;
+  }
+  .banner .platform a i {
+    font-size: 32px;
+    margin: 0px 0px 0px 13px;
+  }
+  .banner .platform a:nth-child(3) {
+    padding: 0.6rem 2.5rem;
+  }
+  .banner .James {
+    width: 70%;
+    text-align: center;
+  }
+  .banner .James img {
+    width: 139%;
+    margin: 25px 0px 0px -105px;
+  }
+  .banner .James .james-box {
+    width: 74%;
+    transform: translate(15%, -130px);
+    padding: 24px 27px;
+  }
+  .banner .James .james-box p {
+    font-size: 22px;
+  }
+  .banner .James .james-box h2 {
+    font-size: 27px;
+  }
+
+  .built {
+    padding: 2px 0px 70px;
+  }
+  .built h2 {
+    font-size: 36px;
+    margin: 30px 0px 70px;
+  }
+  .built .built-con {
+    display: flex;
+    justify-content: space-between;
+  }
+  .built .built-con .built-box {
+    margin: 0px 0px;
+    width: 45%;
+  }
+  .built .built-con .built-box img {
+    top: -31px;
+    width: 100%;
+    padding: 0;
+    height: 90%;
+    -o-object-fit: contain;
+       object-fit: contain;
+  }
+  .built .built-con .built-box .girl {
+    width: 99%;
+    top: -28px;
+  }
+  .built .built-con .built-box .inn {
+    width: 98%;
+  }
+  .built .built-con .built-box:nth-child(2) {
+    margin: 0;
+    padding: 0px 0px 40px;
+  }
+  .built .built-con .built-box h3 {
+    font-size: 25px;
+  }
+
+  .Ourplatfroms {
+    padding: 40px 0px;
+  }
+  .Ourplatfroms h2 {
+    font-size: 36px;
+    margin: 36px 0px;
+    padding: 0;
+  }
+  .Ourplatfroms .box a {
+    padding: 0.7rem 1.4rem;
+    transform: translate(141px, -25px);
+    font-size: 22px;
+  }
+  .Ourplatfroms .box p {
+    text-align: left;
+    margin: 40px 0px 30px;
+    font-size: 18px;
+    line-height: 1.4;
+  }
+
+  .founder {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 0px 10px;
+  }
+  .founder .founder-text {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 0px 15px;
+    text-align: left;
+  }
+  .founder .founder-text h2 {
+    font-size: 28px;
+    width: 100%;
+  }
+  .founder .founder-text a {
+    text-align: left;
+    width: 40%;
+    transform: translateX(-116px);
+  }
+  .founder .founder-text p {
+    margin: 20px 0px;
+  }
+  .founder img {
+    width: 45%;
+  }
+
+  .investor {
+    flex-direction: row-reverse;
+    align-items: center;
+    padding: 15px 10px 30px;
+  }
+  .investor .investor-text {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 0px 15px;
+    text-align: left;
+    margin: 42px 0px 0px;
+  }
+  .investor .investor-text h2 {
+    font-size: 28px;
+    width: 100%;
+  }
+  .investor .investor-text a {
+    text-align: left;
+    width: 40%;
+    transform: translateX(-103px);
+    margin: 0;
+  }
+  .investor img {
+    width: 50%;
+  }
+
+  .Accordion h2 {
+    font-size: 34px;
+  }
+  .Accordion .acco {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  .Accordion .acco .king {
+    width: 45%;
+  }
+  .Accordion .acco .acc {
+    width: 100%;
+    margin: 6px 0px;
+  }
+  .Accordion .acco .acc h3 {
+    font-size: 16px;
+  }
+  .Accordion .acco .acc .content-inner {
+    padding: 10px;
+  }
+  .Accordion .acco .acc .content-inner p {
+    font-size: 14px;
+  }
+  .Accordion .acco .more {
+    display: none;
+  }
+  .Accordion .acco .none {
+    display: block;
+  }
+
+  .Startups {
+    padding: 40px 0px;
+  }
+  .Startups .lock {
+    padding: 50px 50px;
+    margin: 0px 40px;
+    position: relative;
+  }
+  .Startups .lock h2 {
+    font-size: 32px;
+    text-align: center;
+    margin: 10px 0px;
+    text-transform: capitalize;
+  }
+  .Startups .lock hr {
+    padding: 1px;
+    background-color: #1a1c1b;
+  }
+  .Startups .lock i {
+    display: block;
+    font-size: 18px;
+    border-radius: 70%;
+  }
+  .Startups .lock .left {
+    left: 2%;
+    bottom: 30%;
+  }
+  .Startups .lock .right {
+    right: 2%;
+    bottom: 30%;
+  }
+  .Startups .lock .box img {
+    width: 50%;
+    margin: 0px auto;
+  }
+
+  footer {
+    padding: 30px 0px;
+  }
+  footer .row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  footer .footer-box {
+    margin: 10px 0px;
+    width: 30%;
+  }
+  footer .footer-box h2 {
+    font-size: 26px;
+    margin: 20px 0px;
+  }
+  footer .footer-box h4 {
+    margin: 15px 0px;
+    font-size: 17px;
+    opacity: 0.8;
+  }
+  footer span img {
+    width: 20%;
+  }
+  footer span hr {
+    width: 1%;
+    margin: 0px 20px;
+  }
+  footer span p {
+    font-size: 18px;
+  }
+}
+@media (min-width: 1280px) {
+  .banner {
+    flex-direction: row;
+    padding: 140px 0px 0px;
+    height: 95vh;
+  }
+  .banner .platform {
+    box-sizing: border-box;
+    text-align: left;
+    padding: 0px 40px;
+    width: 50%;
+    margin: 0px 0px 44px;
+  }
+  .banner .platform h1 {
+    font-size: 58px;
+    text-transform: uppercase;
+    margin: 0px 0px 40px;
+    width: 100%;
+    padding: 0;
+  }
+  .banner .platform a {
+    text-align: center;
+    font-size: 24px;
+    padding: 0.7rem 1rem;
+    margin: 0px 50px 0px 0px;
+    border-radius: 7px;
+    box-shadow: none;
+    transition: all 0.3s ease-in-out;
+    display: inline-flex;
+    align-items: center;
+  }
+  .banner .platform a:hover {
+    background-color: #b4fcee;
+  }
+  .banner .platform a i {
+    margin: 0px 10px;
+  }
+  .banner .platform a:nth-child(3) {
+    padding: 1rem 3rem;
+  }
+  .banner .James {
+    width: 50%;
+    box-sizing: border-box;
+  }
+  .banner .James img {
+    width: 100%;
+    height: 75vh;
+    margin: 0px auto;
+    -o-object-fit: contain;
+       object-fit: contain;
+  }
+  .banner .James .james-box {
+    width: 40%;
+    position: absolute;
+    transform: translate(21.5rem, -8.5rem);
+    border-radius: 15px;
+    text-align: left;
+    padding: 25px 20px;
+  }
+  .banner .James .james-box h2 {
+    font-size: 25px;
+  }
+  .banner .James .james-box p {
+    font-size: 19px;
+  }
+
+  .built {
+    padding: 120px 20px 120px;
+  }
+  .built h2 {
+    font-size: 51px;
+    text-align: left;
+    margin: 0px 0px 99px;
+    padding: 0px 0px 0px 68px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  .built .built-con {
+    justify-content: space-evenly;
+  }
+  .built .built-con .built-box {
+    width: 30%;
+    margin: 0;
+    box-shadow: 0px 0px 10px 6px #00000026;
+  }
+  .built .built-con .built-box img {
+    top: -29px;
+    width: 100%;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .built .built-con .built-box .inn {
+    top: -35px;
+    left: -2px;
+  }
+  .built .built-con .built-box h3 {
+    font-size: 26px;
+  }
+  .built .built-con .built-box .girl {
+    top: -41px;
+  }
+
+  .Ourplatfroms {
+    margin: 0 0px 0px 40px;
+    padding: 80px 0px;
+  }
+  .Ourplatfroms h2 {
+    text-align: left;
+    font-size: 36px;
+    padding: 0px 0px 0px 80px;
+    margin: 40px 0px 65px;
+    text-transform: uppercase;
+  }
+  .Ourplatfroms .Show {
+    position: relative;
+    left: 7%;
+  }
+  .Ourplatfroms .Show .box {
+    width: 30%;
+  }
+  .Ourplatfroms .Show .box p {
+    font-size: 18px;
+  }
+  .Ourplatfroms .Show .box a {
+    transform: translate(-208px, -26px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 15%;
+    padding: 0.7rem 1.2rem;
+    font-size: 22px;
+    transition: all 0.3s ease-in-out;
+  }
+  .Ourplatfroms .Show .box a:hover {
+    background-color: #b4fcee;
+  }
+
+  .founder {
+    padding: 20px 0px 0px;
+    justify-content: space-evenly;
+    position: relative;
+  }
+  .founder img {
+    width: 47%;
+    position: relative;
+    top: -45px;
+  }
+  .founder .founder-text {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 47%;
+    padding: 50px 10px 0px 10px;
+  }
+  .founder .founder-text h2 {
+    font-size: 41px;
+    width: 100%;
+  }
+  .founder .founder-text p {
+    font-size: 28px;
+    margin: 20px 0px;
+  }
+  .founder .founder-text a {
+    display: flex;
+    align-items: center;
+    font-size: 21px;
+    width: 28%;
+    padding: 0.9rem 0.7rem;
+    transform: translate(-215px, 20px);
+    transition: all 0.3s ease-in-out;
+  }
+  .founder .founder-text a:hover {
+    background-color: #b4fcee;
+  }
+
+  .investor {
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 60px 0px;
+  }
+  .investor img {
+    width: 40%;
+  }
+  .investor .investor-text {
+    width: 45%;
+    padding: 50px 0px 0px 25px;
+  }
+  .investor .investor-text h2 {
+    font-size: 41px;
+  }
+  .investor .investor-text p {
+    font-size: 30px;
+    margin: 20px 0px;
+  }
+  .investor .investor-text a {
+    transform: translate(-204px, 20px);
+    margin: 0px;
+    font-size: 21px;
+    width: 28%;
+    padding: 0.9rem 0.7rem;
+    transition: all 0.3s ease-in-out;
+  }
+  .investor .investor-text a:hover {
+    background-color: #1a1c1b;
+  }
+
+  .Accordion {
+    padding: 8% 40px 4%;
+  }
+  .Accordion h2 {
+    font-size: 41px;
+  }
+  .Accordion .acco .king {
+    width: 45%;
+    background-color: none;
+  }
+  .Accordion .acco .acc {
+    width: 100%;
+    margin: 36px 0px;
+  }
+  .Accordion .acco .acc h3 {
+    font-size: 23px;
+    padding: 15px 0px 5px;
+  }
+  .Accordion .acco .acc h3:after {
+    font-size: 30px;
+    top: 60%;
+  }
+  .Accordion .acco .acc .content-inner {
+    padding: 15px;
+  }
+  .Accordion .acco .acc .content-inner p {
+    font-size: 16px;
+  }
+
+  .Startups {
+    padding: 70px 80px 20px;
+    position: relative;
+    z-index: 2;
+  }
+  .Startups .lock {
+    position: relative;
+    margin: 40px 40px;
+    padding: 80px 40px;
+    z-index: 2;
+  }
+  .Startups .lock h2 {
+    font-size: 41px;
+    text-transform: capitalize;
+    margin: 40px 0px;
+  }
+  .Startups .lock hr {
+    margin: 20px auto;
+    width: 85%;
+    border-radius: 5px;
+  }
+  .Startups .lock .box {
+    margin: 40px 0px;
+    height: 132px;
+    display: flex;
+    align-items: center;
+  }
+  .Startups .lock .box img {
+    width: 40%;
+    -o-object-fit: contain;
+       object-fit: contain;
+  }
+  .Startups .lock i {
+    position: absolute;
+    color: #bdb9b9;
+    font-size: 25px;
+    border: 2px solid #e2e2e2;
+    padding: 19px;
+    border-radius: 66%;
+  }
+  .Startups .lock i:hover {
+    color: black;
+    border: 1px solid black;
+  }
+  .Startups .lock .left {
+    left: 3%;
+    bottom: 27%;
+  }
+  .Startups .lock .right {
+    right: 3%;
+    bottom: 27%;
+  }
+  .Startups .lunar {
+    position: absolute;
+    width: 53%;
+    left: 36%;
+    bottom: -80px;
+    z-index: 4;
+    display: block;
+  }
+  .Startups .lunar1 {
+    position: relative;
+    width: 3%;
+    left: 10%;
+    bottom: 73px;
+    z-index: 1;
+    display: block;
+  }
+
+  footer {
+    padding: 75px 0px 30px;
+    position: relative;
+  }
+  footer .footer-lines {
+    display: block;
+    position: absolute;
+    top: -80px;
+    width: 55%;
+    left: 22%;
+    z-index: 10;
+  }
+  footer .footer-box {
+    width: 33%;
+    margin: 40px 0px;
+  }
+  footer .footer-box h2 {
+    font-size: 30px;
+  }
+  footer .footer-box h4 {
+    font-size: 18px;
+    opacity: 0.7;
+  }
+  footer span {
+    width: 104%;
+  }
+  footer span img {
+    width: 8%;
+  }
+  footer span hr {
+    margin: 0px 20px;
+    width: 3px;
+    height: 45px !important;
+  }
+  footer span p {
+    font-size: 18px;
+  }
+}/*# sourceMappingURL=Container.css.map */
