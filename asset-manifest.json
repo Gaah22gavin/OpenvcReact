@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/OpenvcReact/static/css/main.c6081b1f.css",
+    "main.js": "/OpenvcReact/static/js/main.a411c7ed.js",
+    "static/media/Montserrat-Regular.ttf": "/OpenvcReact/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Montserrat-Bold.ttf": "/OpenvcReact/static/media/Montserrat-Bold.079ca05d3ded9bc107ab.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/OpenvcReact/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/Montserrat-Medium.ttf": "/OpenvcReact/static/media/Montserrat-Medium.e2d60bc49517598c0ce8.ttf",
+    "static/media/Montserrat-Light.ttf": "/OpenvcReact/static/media/Montserrat-Light.02afb26fe72fcc052988.ttf",
+    "static/media/Montserrat-Thin.ttf": "/OpenvcReact/static/media/Montserrat-Thin.4a799b111f608dbf4f89.ttf",
+    "static/media/slick.svg": "/OpenvcReact/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/OpenvcReact/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/OpenvcReact/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/OpenvcReact/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/OpenvcReact/index.html",
+    "main.c6081b1f.css.map": "/OpenvcReact/static/css/main.c6081b1f.css.map",
+    "main.a411c7ed.js.map": "/OpenvcReact/static/js/main.a411c7ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6081b1f.css",
+    "static/js/main.a411c7ed.js"
+  ]
+}
